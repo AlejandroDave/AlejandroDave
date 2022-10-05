@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**AlejandroDave/AlejandroDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! my name is David Alejandro
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Currently studying computer engineering at UAM Azcapotzalco.
+
+Interest: 
+- Data Science
+- Machine Learning
+- Deep Learning
+- AI
+- Game Development
+
+
+
+
+## 🛠 Skills
+- Pyhton
+- C++
+- Java
+
+
+## 🔗 Contact me
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirezdavidalejandrod/)
+
+[![twitter](https://img.shields.io/twitter/follow/DaveAndromeda?style=social)](https://twitter.com/DaveAndromeda)
+
